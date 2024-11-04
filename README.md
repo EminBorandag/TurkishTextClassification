@@ -152,9 +152,10 @@ You are using pip version 18.0, however version 20.2.3 is available.
 You should consider upgrading via the 'python -m pip install --upgrade pip' command.
 </h5>
 
-Go to directory: cd Code/
+Go to DataSets  directory: cd db/
+Go to Code (for example Doc2Vec) directory: cd embedding/fix/doc2vec/
 To start the training run:
-$ python main.py
+$ python doc2vec_ttc.ipynb
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eminborandag&label=Profile%20views&color=0e75b6&style=flat" alt="eminborandag" /> </p>
 
