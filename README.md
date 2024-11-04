@@ -148,7 +148,6 @@ Werkzeug              0.14.1
 wheel                 0.31.0
 winpython             1.10.20180404
 zipp                  3.1.0
-You are using pip version 18.0, however version 20.2.3 is available.
 You should consider upgrading via the 'python -m pip install --upgrade pip' command.
 </h5>
 
