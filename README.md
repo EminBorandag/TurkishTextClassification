@@ -1,4 +1,15 @@
 <h1 align="center">Hi 👋, I'm LSRM : A new method for Turkish Text Classification</h1>
+
+<h3 align="justify">This repository contains code for the project LSRM. The project focuses on utilizing BERT, RoBERTa, and BERTurk models for text classification tasks, as well as exploring different embedding techniques such as Word2Vec, Doc2Vec, FastText, and Glove.
+
+Repository Structure
+
+Berts (This folder contains all the results related to the BERT, RoBERTa, and BERTurk models.
+Embedding (This folder contains the results obtained using Word2Vec, Doc2Vec, FastText, and Glove embedding techniques.
+Db (In this folder, you can find the datasets generated using the LSRM approach, as well as the original datasets used in the project.)
+Code (The code for the developed method (LSRM) can be found in the repository as well.)</h3>
+
+
 <h3 align="justify">The present research focused on various machine learning (ML), deep learning (DL), word embedding (WEm), and transfer learning (TL) algorithms for classifying Turkish texts. The study utilized algorithms such as NB, SMO, KNN, J48, RF for ML; CNN, LSTM, GRU for DL; Doc2Vec, Word2Vec, Glove, FastText for WEm; and Bert, RoBERTa, BerTURK for TL. Three different data sets were used to evaluate the text classification performance in the Turkish language. A new method called LSRM was also introduced to enhance text classification for languages like Turkish with agglutinative features. The study made several contributions to the literature, including running various algorithms individually on Turkish text data sets, comparing classification success rates, investigating the impact of WEm algorithms combined with DL algorithms, and introducing a new data set that reflects changes in Turkish word usage over time with timestamp-enabled data.</h3>
 
 Approach and pipeline:
